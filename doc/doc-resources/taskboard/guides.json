@@ -1,0 +1,12 @@
+[
+    {
+        "title": "TaskBoard Guides",
+        "items": [
+            {
+                "name"          : "taskboard_getting_started",
+                "title"         : "Getting Started with the TaskBoard component",
+                "description"   : "This guide will show you how to get started with the TaskBoard."
+            }
+        ]
+    }
+]

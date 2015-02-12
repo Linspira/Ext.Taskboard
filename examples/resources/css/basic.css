@@ -1,0 +1,45 @@
+.x-panel-body-default {
+    border : 0;
+}
+
+.sch-scrumcolumn {
+    border : 0 none !important;
+}
+
+.sch-task-name {
+    min-height : 20px;
+    display    : block;
+}
+
+.sch-taskboard-taskview div.special {
+    background : lemonchiffon;
+    color      : #000;
+}
+
+.sch-tool-comment {
+    background      : url(../images/comment.png) no-repeat 2px center;
+    background-size : 10px;
+}
+
+.sch-tool-attachment {
+    background      : url(../images/paper-clip.png) no-repeat 2px center;
+    background-size : 10px;
+}
+
+.sch-taskboard-taskview {
+    background : #dfe9f6;
+}
+
+.sch-taskcolumn .x-container-docked-bottom {
+    background : #dfe9f6;
+}
+
+.sch-taskcolumn .x-panel-header {
+    background : #fff;
+    border     : 0 none !important;
+}
+
+.x-panel-header-default-top {
+    box-shadow : none;
+}
+

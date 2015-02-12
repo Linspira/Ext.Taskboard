@@ -1,0 +1,55 @@
+[
+    {
+        "name": "Task Board",
+        "groups": [
+            {
+                "name": "Model",
+                "classes": [
+                    "Sch.model.Event",
+                    "Sch.model.Resource",
+                    "Sch.model.Range",
+                    "Sch.model.Customizable",
+                    "Kanban.model.Resource",
+                    "Kanban.model.Task"
+                ]
+            },
+            {
+                "name": "Store",
+                "classes": [
+                    "Kanban.data.ResourceStore",
+                    "Kanban.data.TaskStore"
+                ]
+            },
+            {
+                "name": "Components",
+                "classes": [
+                    "Kanban.view.TaskView",
+                    "Kanban.view.TaskColumn",
+                    "Kanban.view.TaskBoard"
+                ]
+            },
+            {
+                "name": "Menu",
+                "classes": [
+                    "Kanban.menu.UserMenu",
+                    "Kanban.menu.UserPictureMenu"
+                ]
+            },
+            {
+                "name": "Field",
+                "classes": [
+                    "Kanban.field.AddNew",
+                    "Kanban.field.ColumnFilter",
+                    "Kanban.field.TaskFilter",
+                    "Kanban.field.TaskHighlight"
+                ]
+            },
+            {
+                "name": "Editor",
+                "classes": [
+                    "Kanban.editor.SimpleEditor"
+                ]
+            }
+        ]
+    }
+]

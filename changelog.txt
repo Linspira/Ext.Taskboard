@@ -1,0 +1,17 @@
+Release history for the Bryntum Task Board:
+
+0.001     2014-03-06
+    This is the initial 1.0 alpha release of the Task Board component based on Ext JS. There might still be changes made to the API based on community feedback.
+    Please see the the examples and documentation for a demonstration on how the Task Board component works. If you have feature suggestions or
+    of if spot a bug, please let us know in our forums at http://bryntum.com/forum.
+
+    [SUPPORTED EXT JS VERSIONS]
+    - 4.1.1+
+
+    [KNOWN ISSUES]
+
+    [FEATURES / ENHANCEMENTS]
+
+    [API CHANGES]
+
+    [BUG FIXES]
